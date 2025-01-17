@@ -1,0 +1,105 @@
+{
+    "foods": [
+      {
+        "foodName": "Idly",
+        "calories": 61,
+        "image": "https://b2958125.smushcdn.com/2958125/wp-content/uploads/brown-rice-idli-3-2.jpg?lossy=1&strip=1&webp=1"
+      },
+      {
+        "foodName": "Dosa",
+        "calories": 104,
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/dosa-recipe.webp"
+      },
+      {
+        "foodName": "Chapati",
+        "calories": 115,
+        "image": "https://thespicemess.com/wp-content/uploads/2021/10/Roti-Soft-Chapati-12-1-500x500.jpg"
+      },
+      {
+        "foodName": "Omlette",
+        "calories": 92,
+        "image": "https://www.eatingwell.com/thmb/eK-GZYzl1_gux4ELCTO92R6OwAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3749953-667cf59be0fd4b5bb5bf57d6da1a0c40.jpg"
+      },
+      {
+        "foodName": "Cheese Omlette",
+        "calories": 177,
+        "image": "https://cheeseknees.com/wp-content/uploads/2021/09/Cheese-Omelette-1-1.jpg"
+      },
+      {
+        "foodName": "Boiled egg",
+        "calories": 77,
+        "image": "https://png.pngtree.com/png-vector/20231205/ourmid/pngtree-boiled-egg-in-plate-png-image_10938611.png"
+      },
+      {
+        "foodName": "Vada",
+        "calories": 120,
+        "image": "https://5.imimg.com/data5/EG/DY/MY-4094990/medu-vada-500x500.jpg"
+      },
+      {
+        "foodName": "Dahi vada",
+        "calories": 190,
+        "image": "https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/1x1/1x1-dahi-vada-recipe.jpg"
+      },
+      {
+        "foodName": "Sambhar vada",
+        "calories": 142,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWwZiYjtcRmF_QI2Ts4-Ly6-Y1RjaXbW_wsA&s"
+      },
+      {
+        "foodName": "Paratha",
+        "calories": 160,
+        "image": "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/nilanjana-bhattacharjee-mitra20170314080156704.jpeg"
+      },
+      {
+        "foodName": "Wheat paratha",
+        "calories": 126,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2024/11/464547265/SJ/SY/HN/2837532/readymade-wheat-parotta-500x500.jpg"
+      },
+      {
+        "foodName": "White sauce veg pasta",
+        "calories": 327,
+        "image": "https://static.toiimg.com/photo/54292840.cms"
+      },
+      {
+        "foodName": "Red sauce pasta",
+        "calories": 240,
+        "image": "https://miro.medium.com/v2/resize:fit:736/1*HqJFqDEhRGLp73jxpkMpiA@2x.jpeg"
+      },
+      {
+        "foodName": "Veg noodles",
+        "calories": 390,
+        "image": "https://cdn.shopify.com/s/files/1/0517/4609/files/Vegetable-Hakka-Noodles-Restaurant-Style-3.jpg?v=1643374385"
+      },
+      {
+        "foodName": "Egg noodles",
+        "calories": 460,
+        "image": "https://assets.bonappetit.com/photos/611d14578802063014847313/1:1/w_2560%2Cc_limit/0821-Thai-Basil-Noodles.jpg"
+      },
+      {
+        "foodName": "Chicken noodles",
+        "calories": 620,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyCFf3GUM2xX40Yg8TlXhxhdf76SNKqHTTsA&s"
+      },
+      {
+        "foodName": "Veg Briyani",
+        "calories": 320,
+        "image": "https://daruadda.com/wp-content/uploads/2023/04/veg.png"
+      },
+      {
+        "foodName": "Egg Briyani",
+        "calories": 400,
+        "image": "https://www.relishthebite.com/wp-content/uploads/2015/02/EGgBiryani-3.jpg"
+      },
+      {
+        "foodName": "Chicken Briyani",
+        "calories": 590,
+        "image": "https://oneplateneverlate.com/wp-content/uploads/2024/10/DALL%C2%B7E-2024-10-13-13.43.48-A-close-up-top-down-image-of-a-beautifully-presented-aromatic-biryani-served-in-a-traditional-copper-bowl.-The-long-grain-basmati-rice-is-perfectly-1-1.webp"
+      },
+      {
+        "foodName": "Mutton Briyani",
+        "calories": 780,
+        "image": "https://cdn.uengage.io/uploads/7057/image-1465-1688732669.jpeg"
+      }
+    ]
+  }
+  
