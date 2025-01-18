@@ -2,9 +2,20 @@ import express from 'express';
 import mongoose  from 'mongoose';
 import fs from 'fs';
 import Food from "./models/food.js";
+import foodRoutes from "./routes/foodRoutes.js"
+import authRoutes from "./routes/authRoutes.js"
+import session from 'express-session';
 
 const app =express();
 app.use(express.json());
+
+app.use(
+  session({
+    secret: 'simple-secret', 
+    resave: false,
+    saveUninitialized: true,
+  })
+);
 
 
 const datainsert= async ()=>{
@@ -21,6 +32,8 @@ try{
 }
 };
 
+app.use('/api/auth', authRoutes);
+app.use('/api/food', foodRoutes);
 
 app.get('/foods', async (req, res) => {
     try {
